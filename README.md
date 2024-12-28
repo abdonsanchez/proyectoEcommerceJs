@@ -28,6 +28,8 @@ Este es un proyecto de e-commerce interactivo y dinámico, creado como parte de 
 
 ## Enlace al proyecto 🌐
 
+Puedes ver el proyecto en línea aquí: [Proyecto E-commerce en GitHub Pages](https://abdonsanchez.github.io/proyectoEcommerceJs/)
+
 [Enlace al proyecto en GitHub](https://github.com/abdonsanchez/proyectoEcommerceJs.git)
 
 ## Instrucciones para ejecutar el proyecto 🚀
